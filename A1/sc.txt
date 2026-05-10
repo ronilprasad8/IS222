@@ -1,0 +1,100 @@
+"PR00001","C00001","Basic background verification for government IT systems",1,TRUE
+"PR00002","C00002","Financial sector vetting including credit history check",2,TRUE
+"PR00003","C00003","Medical ethics review for patient data access",3,FALSE
+"PR00004","C00004","Education sector clearance for student data",1,TRUE
+"PR00005","C00005","Energy infrastructure security assessment",2,TRUE
+"PR00006","C00006","Automotive industry supply chain verification",3,TRUE
+"PR00007","C00007","Retail commerce background screening",1,FALSE
+"PR00008","C00008","Aviation security threat assessment",4,TRUE
+"PR00009","C00009","Legal professional privilege verification",2,TRUE
+"PR00010","C00010","Agricultural export compliance review",3,TRUE
+"PR00011","C00011","Telecom infrastructure security check",1,TRUE
+"PR00012","C00012","Media production content clearance",2,FALSE
+"PR00013","C00013","Pharmaceutical supply chain audit",4,TRUE
+"PR00014","C00014","Port authority security screening",3,TRUE
+"PR00015","C00015","Entertainment content licensing check",1,TRUE
+"PR00016","C00016","National cybersecurity threat assessment",4,TRUE
+"PR00017","C00017","Fashion industry IP protection review",2,TRUE
+"PR00018","C00018","Mining operational safety verification",3,FALSE
+"PR00019","C00019","Tourism sector background screening",1,TRUE
+"PR00020","C00020","Biotech research ethics clearance",4,TRUE
+"PR00021","C00021","Defense sector top-secret vetting",4,TRUE
+"PR00022","C00022","Retail POS system data protection",1,TRUE
+"PR00023","C00023","Pharmaceutical serialization audit",3,TRUE
+"PR00024","C00024","Organic certification compliance",2,FALSE
+"PR00025","C00025","Legal research database access",1,TRUE
+"PR00026","C00026","EdTech hardware security assessment",2,TRUE
+"PR00027","C00027","Music copyright ownership verification",1,TRUE
+"PR00028","C00028","Cultural heritage access clearance",3,TRUE
+"PR00029","C00029","Tourism data analytics permission",2,TRUE
+"PR00030","C00030","Healthcare IoT device certification",1,FALSE
+"PR00031","C00001","Medical 3D printing ethics review",3,TRUE
+"PR00032","C00002","Financial AI algorithm security audit",4,TRUE
+"PR00033","C00003","Telemedicine platform HIPAA compliance",3,TRUE
+"PR00034","C00004","Digital textbook content clearance",1,TRUE
+"PR00035","C00005","Renewable energy grid security",2,FALSE
+"PR00036","C00006","Automotive CRM data protection",1,TRUE
+"PR00037","C00007","Loyalty program fraud prevention",2,TRUE
+"PR00038","C00008","Airport baggage system security",4,TRUE
+"PR00039","C00009","Legal case management access",1,TRUE
+"PR00040","C00010","Agricultural IoT sensor certification",3,TRUE
+"PR00041","C00011","Fiber optic network infrastructure",2,TRUE
+"PR00042","C00012","Broadcast equipment security check",1,FALSE
+"PR00043","C00013","Vaccine cold chain verification",4,TRUE
+"PR00044","C00014","Shipping container tracking security",3,TRUE
+"PR00045","C00015","Film localization content review",1,TRUE
+"PR00046","C00016","Cyber threat intelligence access",4,TRUE
+"PR00047","C00017","Fashion inventory system audit",2,TRUE
+"PR00048","C00018","Mining equipment safety check",3,TRUE
+"PR00049","C00019","Resort revenue system protection",1,FALSE
+"PR00050","C00020","Genomic data privacy clearance",4,TRUE
+"PR00051","C00021","Military communication encryption",4,TRUE
+"PR00052","C00022","Veterinary telehealth certification",1,TRUE
+"PR00053","C00023","Pharma track-and-trace compliance",3,TRUE
+"PR00054","C00024","Organic farming practice audit",2,TRUE
+"PR00055","C00025","Legal AI training data access",1,FALSE
+"PR00056","C00026","EdTech solar device safety check",2,TRUE
+"PR00057","C00027","Music royalty distribution review",1,TRUE
+"PR00058","C00028","Cultural artifact digitization NDA",3,TRUE
+"PR00059","C00029","Tourism CRM data protection",2,TRUE
+"PR00060","C00030","Senior care IoT health monitoring",1,TRUE
+"PR00061","C00001","Medical bioprinting ethics clearance",3,FALSE
+"PR00062","C00002","Algorithmic trading system audit",4,TRUE
+"PR00063","C00003","Telehealth platform security upgrade",3,TRUE
+"PR00064","C00004","Digital curriculum access review",1,TRUE
+"PR00065","C00005","Wind turbine cybersecurity",2,TRUE
+"PR00066","C00006","Auto dealership system verification",1,TRUE
+"PR00067","C00007","Retail loyalty fraud prevention",2,FALSE
+"PR00068","C00008","Aviation biometric screening",4,TRUE
+"PR00069","C00009","Court document automation clearance",1,TRUE
+"PR00070","C00010","Smart farming data protection",3,TRUE
+"PR00071","C00011","Fiber network infrastructure audit",2,TRUE
+"PR00072","C00012","Media production equipment check",1,TRUE
+"PR00073","C00013","Vaccine distribution security",4,TRUE
+"PR00074","C00014","Port operation system clearance",3,TRUE
+"PR00075","C00015","Film subtitling content review",1,FALSE
+"PR00076","C00016","National cyber defense clearance",4,TRUE
+"PR00077","C00017","Fashion analytics data protection",2,TRUE
+"PR00078","C00018","Automated mining system safety",3,TRUE
+"PR00079","C00019","Resort management system audit",1,TRUE
+"PR00080","C00020","DNA sequencing data privacy",4,TRUE
+"PR00081","C00021","Military hardware encryption",4,FALSE
+"PR00082","C00022","Animal health data access",1,TRUE
+"PR00083","C00023","Drug pedigree verification",3,TRUE
+"PR00084","C00024","Organic export documentation",2,TRUE
+"PR00085","C00025","Legal precedent database access",1,TRUE
+"PR00086","C00026","Solar-powered EdTech certification",2,TRUE
+"PR00087","C00027","Music platform copyright check",1,TRUE
+"PR00088","C00028","Indigenous knowledge protection",3,FALSE
+"PR00089","C00029","Tourism market analysis access",2,TRUE
+"PR00090","C00030","Elderly monitoring HIPAA compliance",1,TRUE
+"PR00091","C00001","Medical device printing clearance",3,TRUE
+"PR00092","C00002","Banking AI model validation",4,TRUE
+"PR00093","C00003","Remote diagnostics certification",3,TRUE
+"PR00094","C00004","E-learning content moderation",1,TRUE
+"PR00095","C00005","Renewable energy grid access",2,TRUE
+"PR00096","C00006","Auto parts inventory verification",1,FALSE
+"PR00097","C00007","Retail marketing data protection",2,TRUE
+"PR00098","C00008","Airport security system audit",4,TRUE
+"PR00099","C00009","Legal research database upgrade",1,TRUE
+"PR00100","C00010","Agricultural blockchain validation",3,TRUE
